@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/home/hero/</loc>
+    <lastmod>2017-10-15T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/home/publications_selected/</loc>
+    <lastmod>2016-04-20T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/home/publications/</loc>
+    <lastmod>2016-04-20T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/home/talks/</loc>
+    <lastmod>2016-04-20T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/home/posts/</loc>
+    <lastmod>2016-04-20T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/home/projects/</loc>
+    <lastmod>2016-04-20T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/home/teaching/</loc>
+    <lastmod>2016-04-20T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/home/tags/</loc>
+    <lastmod>2017-09-20T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/home/contact/</loc>
+    <lastmod>2016-04-20T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/post/</loc>
+    <lastmod>2019-01-03T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/tags/academic/</loc>
+    <lastmod>2017-01-01T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/talk/example-talk/</loc>
+    <lastmod>2017-01-01T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/publication/</loc>
+    <lastmod>2017-01-01T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/talk/</loc>
+    <lastmod>2017-01-01T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/project/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/project/example-external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/publication/person-re-identification/</loc>
+    <lastmod>2015-09-01T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/publication/clothing-search/</loc>
+    <lastmod>2013-07-01T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/home/</loc>
+    <lastmod>2017-10-15T00:00:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/project/</loc>
+    <lastmod>2016-04-27T00:00:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/</loc>
+    <lastmod>2017-10-15T00:00:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://quanchun01.github.io/MyBlog/tags/</loc>
+    <lastmod>2017-01-01T00:00:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
